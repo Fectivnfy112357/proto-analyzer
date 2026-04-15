@@ -1,0 +1,12 @@
+{
+  "name": "proto-analyzer",
+  "version": "1.0.0",
+  "description": "Analyze prototype URLs (Figma, Axure, etc.) and automatically generate PRD, System Design, and API Specification documents.",
+  "author": {
+    "name": "Fectivnfy112357"
+  },
+  "homepage": "https://github.com/Fectivnfy112357/proto-analyzer",
+  "repository": "https://github.com/Fectivnfy112357/proto-analyzer",
+  "license": "MIT",
+  "keywords": ["claude-code", "skill", "prototype-analyzer", "backend-docs", "prd", "api-spec", "system-design", "figma", "axure"]
+}
