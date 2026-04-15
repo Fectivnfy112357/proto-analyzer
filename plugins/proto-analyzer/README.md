@@ -24,10 +24,21 @@
 
 ## 安装
 
-将技能目录复制到 Claude Code 技能目录：
+本项目已支持通过 Claude Code 插件市场一键安装。请在 Claude Code 命令行中依次执行以下命令：
 
+**1. 添加插件市场**
 ```bash
-cp -r proto-analyzer ~/.claude/skills/
+/plugin marketplace add Fectivnfy112357/proto-analyzer
+```
+
+**2. 安装插件**
+```bash
+/plugin install proto-analyzer@proto-analyzer-market
+```
+
+**3. 重载配置**
+```bash
+/reload-plugins
 ```
 
 ## 使用
