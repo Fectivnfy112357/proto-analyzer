@@ -1,0 +1,8 @@
+{
+  "name": "proto-analyzer",
+  "description": "Analyze prototype page URLs (Figma, Axure, etc.) to generate backend development documentation: PRD, System Design, and API Specification.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Fectivnfy112357"
+  }
+}

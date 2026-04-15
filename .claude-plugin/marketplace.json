@@ -1,11 +1,21 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "proto-analyzer-market",
-  "owner": "Fectivnfy112357",
+  "version": "1.0.0",
+  "description": "Claude Code plugin marketplace: proto-analyzer — converts prototype URLs into backend development documentation.",
+  "owner": {
+    "name": "Fectivnfy112357"
+  },
   "plugins": [
     {
       "name": "proto-analyzer",
       "description": "将原型链接自动转化为完整的后端开发文档 (PRD, System Design, API Spec)。",
-      "source": "./plugins/proto-analyzer"
+      "version": "1.0.0",
+      "author": {
+        "name": "Fectivnfy112357"
+      },
+      "source": "./plugins/proto-analyzer",
+      "category": "development"
     }
   ]
 }

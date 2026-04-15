@@ -1,5 +1,0 @@
-{
-  "name": "proto-analyzer",
-  "version": "1.0.0",
-  "description": "原型转后端开发文档助手，自动生成 PRD、系统设计和 API 规范。"
-}
